@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title">article_tittle</string>
+    <string name="article_subtitle">article_subtitle</string>
+    <string name="article_text">
+        Dengan mempelajari mata kuliah patologi dalam keperawatan, mahasiswa PSIK akan memahami berbagai konsep dasar terkait patologi anatomi dan patologi klinik sehingga diharapkan nantinya ketika lulus menjadi Ners mampu mengaplikasikan dan berkolaborasi dengan tim kesehatan lain dalam memberikan asuhan keperawatan kepada klien.
+        \n\n
+        Mata ajar ini membahas tentang prinsip-prinsip teoritis dan ketrampilan patologi anatomi dan patologi klinik dalam keperawatan. Focus mata kuliah ini meliputi berbagai aspek yang terkait prinsip-prinsip teoritis dan praktis pemeriksaan penyakit yang terdapat di masyarakat, khususnya masyarakat pertanian industrial secara patologi anatomi dan patologi klinik.
+        \n\n
+        Capaian Pembelajaran (LO) Mata Kuliah (Standar Kompetensi):
+Setelah menyelesaikan mata kuliah ini, mahasiswa Program Studi Ilmu Keperawatan mampu memahami  konsep dasar patologi dalam keperawatan serta menerapkannya dalam memberikan asuhan keperawatan pada klien berdasarkan perkembangan sistem pelayanan kesehatan dan IPTEK kesehatan dan keperawatan.
+
+
+    </string>
+</resources>
