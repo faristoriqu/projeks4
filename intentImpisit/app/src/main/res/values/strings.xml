@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">intentImpisit</string>
+    <string name="edittext_uri">http://pandawadev.com</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Jembatan Suramadu</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">\'Fix it with IT by Pandawadev</string>
+    <string name="button_share">Share Text Ini</string>
+</resources>
